@@ -16,7 +16,7 @@ Images are built in the Docker Hub automatically on each push to the master bran
 It's really easy to build images locally for the distro of your choice. To build an image you only need to run:
 ``` bash
 $ docker build https://github.com/yaodu/docker-heat.git \
-  --file dockerfiles/Dockerfile-debian \
+  --file debian/Dockerfile \
   --tag yaodu/heat:latest
 ```
 You can, of course, substitute `debian` with your distro of choice.
@@ -32,7 +32,7 @@ For more advanced building you can use docker build arguments to define:
 This makes it really easy to integrate Yaodu images into your development or CI/CD workflow, for example, if you wanted to build an image from [this PS](https://review.openstack.org/#/c/213731/4) you could run:
 ``` bash
 $ docker build https://github.com/yaodu/docker-heat.git \
-  --file dockerfiles/Dockerfile-ubuntu \
+  --file ubuntu/Dockerfile \
   --tag mydockernamespace/heat-testing:213731-4 \
   --build-arg GIT_REPO=http://git.openstack.org/openstack/heat.git \
   --build-arg GIT_REF_REPO=http://git.openstack.org/openstack/heat.git \
