@@ -3,8 +3,8 @@
 For more information, including build instructions, please visit the [main repository](https://github.com/openstack/loci).
 
 ### Image Layer Info
-[![](https://images.microbadger.com/badges/version/yaodu/heat:latest.svg)](https://microbadger.com/images/yaodu/heat:latest "yaodu/heat:latest") [![](https://images.microbadger.com/badges/image/yaodu/heat:latest.svg)](https://microbadger.com/images/yaodu/heat:latest "yaodu/heat:latest")
+[![](https://images.microbadger.com/badges/version/openstackloci/heat:debian.svg)](https://microbadger.com/images/openstackloci/heat:latest "openstackloci/heat:latest") [![](https://images.microbadger.com/badges/image/openstackloci/heat:latest.svg)](https://microbadger.com/images/openstackloci/heat:latest "openstackloci/heat:latest")
 
-[![](https://images.microbadger.com/badges/version/yaodu/heat:ubuntu.svg)](https://microbadger.com/images/yaodu/heat:ubuntu "yaodu/heat:ubuntu") [![](https://images.microbadger.com/badges/image/yaodu/heat:ubuntu.svg)](https://microbadger.com/images/yaodu/heat:ubuntu "yaodu/heat:ubuntu")
+[![](https://images.microbadger.com/badges/version/openstackloci/heat:ubuntu.svg)](https://microbadger.com/images/openstackloci/heat:ubuntu "openstackloci/heat:ubuntu") [![](https://images.microbadger.com/badges/image/openstackloci/heat:ubuntu.svg)](https://microbadger.com/images/openstackloci/heat:ubuntu "openstackloci/heat:ubuntu")
 
-[![](https://images.microbadger.com/badges/version/yaodu/heat:centos.svg)](https://microbadger.com/images/yaodu/heat:centos "yaodu/heat:centos") [![](https://images.microbadger.com/badges/image/yaodu/heat:centos.svg)](https://microbadger.com/images/yaodu/heat:centos "yaodu/heat:centos")
+[![](https://images.microbadger.com/badges/version/openstackloci/heat:centos.svg)](https://microbadger.com/images/openstackloci/heat:centos "openstackloci/heat:centos") [![](https://images.microbadger.com/badges/image/openstackloci/heat:centos.svg)](https://microbadger.com/images/openstackloci/heat:centos "openstackloci/heat:centos")
