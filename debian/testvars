@@ -1,0 +1,2 @@
+export PROJECT=heat
+export DISTRO=debian
